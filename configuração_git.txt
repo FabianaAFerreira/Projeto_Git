@@ -3,4 +3,6 @@ git config user.name, (para configurar ou mostra o  nome que esta sendo usado)
 git config user.email, (para configurar ou mostrar o email que esta sendo usado)
 git config --global user.name, ( para salvar o nome para ser usado em todas os projetos nesse PC)
 git config --global user.email, ( para salvar i email para ser usado em todos os projetos nesse PC)
-
+git add git.txt, (adiciona o arquino para ser comitado, um por vez)
+git add --all, (esse --all quer diser que todos os aquivos vão ser comitados )
+git commit -m, ("para comentar o que foi feito")
