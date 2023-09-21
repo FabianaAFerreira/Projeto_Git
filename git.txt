@@ -1,3 +1,4 @@
 Primeira aula git 
 Frase escrita na nova branch
 Testenado a nova branch
+Conectando o repositório local com o remoto.
