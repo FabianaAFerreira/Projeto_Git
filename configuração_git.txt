@@ -12,6 +12,6 @@ git push --set-origin main
 git clone 
 ir no projeto que precisa clonar
 /CODE/COPIA O LINK/TERMINAL GIT BRANCH/ COMANDO git clone/BOTÃO DIREITO DO MOSE PASTE/enter
-
+git pull (para atualizar o repositório local com o remoto)
 
 
