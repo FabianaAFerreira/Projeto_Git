@@ -9,3 +9,4 @@ git commit -m, ("para comentar o que foi feito")
 git branch NOME DA BRANCH, (cria uma branch)
 git checkout NOME DA BRANCH, (entra na branch)
 git push --set-origin main
+teste final
