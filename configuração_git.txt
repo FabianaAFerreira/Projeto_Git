@@ -9,4 +9,9 @@ git commit -m, ("para comentar o que foi feito")
 git branch NOME DA BRANCH, (cria uma branch)
 git checkout NOME DA BRANCH, (entra na branch)
 git push --set-origin main
-teste final
+git clone 
+ir no projeto que precisa clonar
+/CODE/COPIA O LINK/TERMINAL GIT BRANCH/ COMANDO git clone/BOTÃO DIREITO DO MOSE PASTE/enter
+
+
+
